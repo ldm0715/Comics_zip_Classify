@@ -11,8 +11,7 @@
 处理前：
 
 <div align="center">
-<img src="https://z4a.net/images/2023/07/16/mess.png
-" width="75%" alt="mess">
+<img src="https://z4a.net/images/2023/07/16/mess.png" width="75%" alt="mess">
 </div>
 处理后：
 <div align="center">
